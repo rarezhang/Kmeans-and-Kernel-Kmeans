@@ -1,4 +1,4 @@
-# Programming Assignment - Python version
+# coursera - UIUC - clustering analysis in data mining - Programming Assignment - Python version
 ####Prerequisites:####
 
 * python: If you are working on your own machine, you will probably need to install Python. The code in this assignment works for python 2.7.  
